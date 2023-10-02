@@ -24,4 +24,6 @@ Using a SQL database like MySQL or XAMPPSQL, the data collected from multiple ch
 Use SQL queries to link tables in a data warehouse and obtain channel data depending on user input, while ensuring correct foreign and primary key assignment.
 #### __STEP 6:__ Display data in the Streamlit app:
 The obtained data is shown within the Streamlit application, where it is used to build charts and graphs for user analysis.
+#### __STEP 7:__ OUTPUT:
+![Sample](https://github.com/Hari24-01/YouTube_Data_harvesting_and_Warehousing/assets/128268647/b259c93c-26f1-4988-a7f4-ce8d5789e737)
 
